@@ -2,7 +2,13 @@
 
 ## 알고리즘
 
-- 퀵소트
+- [Quick Sort](https://github.com/Girin7716/interview/tree/master/Algorithm/Quick_Sort)
+- [Merge Sort](https://github.com/Girin7716/interview/tree/master/Algorithm/Merge_Sort)
+- [Selection Sort](https://github.com/Girin7716/interview/tree/master/Algorithm/Selection_Sort)
+- [Insertion Sort](https://github.com/Girin7716/interview/tree/master/Algorithm/Insertion_Sort)
+- [Bubble Sort](https://github.com/Girin7716/interview/tree/master/Algorithm/Bubble_Sort)
+
+
 
 
 
