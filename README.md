@@ -10,7 +10,17 @@
 
 
 
+## CS(Computer Science)
 
+### Operation System
+
+
+
+## My Project
+
+- [Capstone1](https://github.com/Girin7716/interview/tree/master/My_Project/Capstone1)
+- [Used_car_prediction_ML](https://github.com/Girin7716/interview/tree/master/My_Project/Used_Car_Prediction_ML)
+- [Coding](https://github.com/Girin7716/interview/tree/master/My_Project/Coding)
 
 
 
