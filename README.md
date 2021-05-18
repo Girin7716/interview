@@ -24,6 +24,12 @@
 
 
 
+## Language
+
+- [Python](https://github.com/Girin7716/interview/tree/master/Language/Python)
+
+
+
 ## 참고
 
 개발자 기술 과제, 라이브 코딩 테스트 후기(자바 스트림 활용 능력 with flatMap)
