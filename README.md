@@ -24,6 +24,12 @@
 
 
 
+## Deep Learning
+
+- [Deep Learning](https://github.com/Girin7716/interview/tree/master/Deep_learning)
+
+
+
 ## Language
 
 - [Python](https://github.com/Girin7716/interview/tree/master/Language/Python)
